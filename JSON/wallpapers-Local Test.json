@@ -2,25 +2,25 @@
     "wallpapers": [
             {
                         "author": "Travis Hall",
-                        "url": "https://raw.githubusercontent.com/RippedThemer/Minimus-Walls/main/Wallpapers/Connections.jpg",
+                        "url": "file:///android_asset/main/wallpapers/Connections.jpg",
                         "name": "Connections",
 			"downloadable": "true",
                     },
                     {
                         "author": "Travis Hall",
-                        "url": "https://raw.githubusercontent.com/RippedThemer/Minimus-Walls/main/Wallpapers/Falling.jpg",
+                        "url": "file:///android_asset/main/wallpapers/Falling.jpg",
                         "name": "Falling",
 			"downloadable": "true",
                     },
                     {
                         "author": "Travis Hall",
-                        "url": "https://raw.githubusercontent.com/RippedThemer/Minimus-Walls/main/Wallpapers/Lines.jpg",
+                        "url": "file:///android_asset/main/wallpapers/Lines.jpg",
                         "name": "Lines",
 			"downloadable": "true",
                     },
                     {
                         "author": "Travis Hall",
-                        "url": "https://raw.githubusercontent.com/RippedThemer/Minimus-Walls/main/Wallpapers/Sunset.jpg",
+                        "url": "file:///android_asset/main/wallpapers/Sunset.jpg",
                         "name": "Sunset",
 			"downloadable": "true",
                     }
