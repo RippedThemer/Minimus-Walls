@@ -2,7 +2,7 @@
     "wallpapers": [
             {
                         "author": "Travis Hall",
-                        "url": "https://github.com/RippedThemer/Minimus-Walls/blob/main/Wallpapers/Connections.jpg",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Minimus-Walls/main/Wallpapers/Connections.jpg",
                         "name": "Connections",
 			"downloadable": "true",
                     },
@@ -26,5 +26,3 @@
                     }
           ]
 }
-
-
