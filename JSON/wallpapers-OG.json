@@ -1,0 +1,24 @@
+{
+    "wallpapers": [
+            {
+                        "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Minimus-Walls/main/Wallpapers/Connections.jpg",
+                        "name": "Connections"
+                    },
+                    {
+                        "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Minimus-Walls/main/Wallpapers/Falling.jpg",
+                        "name": "Falling"
+                    },
+                    {
+                        "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Minimus-Walls/main/Wallpapers/Lines.jpg",
+                        "name": "Lines"
+                    },
+                    {
+                        "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Minimus-Walls/main/Wallpapers/Sunset.jpg",
+                        "name": "Sunset"
+                    }
+          ]
+}
