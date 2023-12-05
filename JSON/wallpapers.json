@@ -1,23 +1,44 @@
  [
             {
+
+			"author": "Travis Hall",
+			"url": "https://raw.githubusercontent.com/RippedThemer/Minimus-Walls/main/Wallpapers/Artsy.jpg",
+			"name": "Artsy"
+		    },
+		    {
                         "author": "Travis Hall",
-                        "url": "https://raw.githubusercontent.com/RippedThemer/Minimus-Walls/main/Wallpapers/Connections.jpg",
-                        "name": "Connections"
-                    },
-                    {
-			 "author": "Travis Hall",
                         "url": "https://raw.githubusercontent.com/RippedThemer/Minimus-Walls/main/Wallpapers/Castle.jpg",
                         "name": "Castle"
                     },
                     {
-                        "author": "Travis Hall",
-                        "url": "https://raw.githubusercontent.com/RippedThemer/Minimus-Walls/main/Wallpapers/Falling.jpg",
-                        "name": "Falling"
+			"author": "Travis Hall",
+			"url": "https://raw.githubusercontent.com/RippedThemer/Minimus-Walls/main/Wallpapers/Cheer.jpg",
+			"name": "Cheer"
+		    },
+		    {
+			 "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Minimus-Walls/main/Wallpapers/Connections.jpg",
+                        "name": "Connections"
                     },
                     {
 			"author": "Travis Hall",
-			"url": "https://raw.githubusercontent.com/RippedThemer/Minimus-Walls/main/Wallpapers/DarkJourney.jpg",
-			"name": "DarkJourney"
+			"url": "https://raw.githubusercontent.com/RippedThemer/Minimus-Walls/main/Wallpapers/Countryside.jpg",
+			"name": "Countryside"
+		    },
+		    {
+                        "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Minimus-Walls/main/Wallpapers/DarkJourney.jpg",
+                        "name": "DarkJourney"
+                    },
+                    {
+			"author": "Travis Hall",
+			"url": "https://raw.githubusercontent.com/RippedThemer/Minimus-Walls/main/Wallpapers/Falling.jpg",
+			"name": "Falling"
+		    },
+		    {
+			"author": "Travis Hall",
+			"url": "https://raw.githubusercontent.com/RippedThemer/Minimus-Walls/main/Wallpapers/Inspiration.jpg",
+			"name": "Inspiration"
 		    },
 		    {
 			"author": "Travis Hall",
@@ -30,6 +51,26 @@
                         "name": "Lines"
                     },
                     {
+			"author": "Travis Hall",
+			"url": "https://raw.githubusercontent.com/RippedThemer/Minimus-Walls/main/Wallpapers/LonelyIsland.jpg",
+			"name": "LonelyIsland"
+		    },
+		    {
+			"author": "Travis Hall",
+			"url": "https://raw.githubusercontent.com/RippedThemer/Minimus-Walls/main/Wallpapers/Playset.jpg",
+			"name": "Playset"
+		    {,
+		    {
+			"author": "Travis Hall",
+			"url": "https://raw.githubusercontent.com/RippedThemer/Minimus-Walls/main/Wallpapers/Serenity.jpg",
+			"name": "Serenity"
+		    {,
+		    {
+			"author": "Travis Hall",
+			"url": "https://raw.githubusercontent.com/RippedThemer/Minimus-Walls/main/Wallpapers/Sunrise.jpg",
+			"name": "Sunrise"
+		    {,
+		    {
                         "author": "Travis Hall",
                         "url": "https://raw.githubusercontent.com/RippedThemer/Minimus-Walls/main/Wallpapers/Sunset.jpg",
                         "name": "Sunset"
@@ -41,6 +82,11 @@
 		    },
 		    {
 			"author": "Travis Hall",
+			"url": "https://raw.githubusercontent.com/RippedThemer/Minimus-Walls/main/Wallpapers/Verticality.jpg",
+			"name": "Verticality"
+		    {,
+		    {
+			"author": "Travis Hall",
 			"url": "https://raw.githubusercontent.com/RippedThemer/Minimus-Walls/main/Wallpapers/Viewpoint.jpg",
 			"name": "Viewpoint"
 		    },
@@ -48,5 +94,10 @@
 			"author": "Travis Hall",
 			"url": "https://raw.githubusercontent.com/RippedThemer/Minimus-Walls/main/Wallpapers/Wavelengths.jpg",
 			"name": "Wavelengths"
+		    },
+		    {
+			"author": "Travis Hall",
+			"url": "https://raw.githubusercontent.com/RippedThemer/Minimus-Walls/main/Wallpapers/Woozy.jpg",
+			"name": "Woozy"
 	     }
           ]
